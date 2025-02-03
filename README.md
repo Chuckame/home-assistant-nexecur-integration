@@ -1,3 +1,7 @@
+# WIP
+
+⚠️ This component is currently used, but there is ongoing work to make it HACS-ready! 
+
 # Notice
 
 The component and platforms in this repository are not meant to be used by a
